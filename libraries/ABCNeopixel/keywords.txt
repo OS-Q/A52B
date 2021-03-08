@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ws2812_rgb	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+show	KEYWORD2
+setPin	KEYWORD2
+setColor	KEYWORD2
+setBrightness	KEYWORD2
+clear	KEYWORD2
+length	KEYWORD2
+canShow	KEYWORD2
+Color	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

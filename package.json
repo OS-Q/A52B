@@ -1,0 +1,12 @@
+{
+  "name": "A52B",
+  "version": "2.1.4",
+  "description": "Fork of Arduino Framework for briki MBC-WB boards",
+  "keywords": [
+    "framework",
+    "arduino",
+    "samd",
+    "esp32"
+  ],
+  "homepage": "https://briki.org"
+}
