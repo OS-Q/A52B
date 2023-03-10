@@ -1,6 +1,0 @@
-compile_sketch:
-  tags:
-    - test
-  script:
-    - pwd
-    - ./compile_all.sh

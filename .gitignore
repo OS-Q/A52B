@@ -1,0 +1,37 @@
+.pio/
+.vscode/
+__pycache__/
+settings
+Debug
+*.py[cod]
+*$py.class
+*__pyc*/
+*.DS_Store
+*.autosave
+*~
+~*
+.settings
+# .mxproject
+# Change*
+# CHANGE*
+# COPY*
+*CONTRIBU*
+CODE_OF_CONDUCT*
+*.swp
+*.lck
+*.log
+*.ewt
+*.ewd
+*.crf
+*.dep
+*.map
+*.hex
+*.bin
+*.bak
+# *.txt
+Obj
+List
+Exe
+TEST/
+_htmresc/
+Release_Notes.html

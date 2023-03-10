@@ -1,12 +1,15 @@
 {
-  "name": "A52B",
-  "version": "2.1.4",
-  "description": "Fork of Arduino Framework for briki MBC-WB boards",
+  "name": "framework-cmsis-stm32g0",
+  "version": "1.3.0",
+  "description": "CMSIS component for the STMicroelectronics STM32G0 series",
   "keywords": [
     "framework",
-    "arduino",
-    "samd",
-    "esp32"
+    "stmicroelectronics",
+    "stm32"
   ],
-  "homepage": "https://briki.org"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/STMicroelectronics/cmsis_device_g0"
+  }
 }
